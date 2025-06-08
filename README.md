@@ -2,25 +2,25 @@
 
 <!-- GitHub badges -->
 
-<!-- [![Latest release](https://img.shields.io/github/v/release/aayushbharti/ai-saas-landing-starter?label=Latest%20release&style=social)](https://github.com/aayushbharti/ai-saas-landing-starter/releases/tag/v0.1.0) -->
+<!-- [![Latest release](https://img.shields.io/github/v/release/rooqx/ai-saas-landing-starter?label=Latest%20release&style=social)](https://github.com/rooqx/ai-saas-landing-starter/releases/tag/v0.1.0) -->
 
-[![Stars](https://img.shields.io/github/stars/aayushbharti/ai-saas-landing-starter?style=social)](https://github.com/aayushbharti/ai-saas-landing-starter/stargazers)
-[![Fork](https://img.shields.io/github/forks/aayushbharti/ai-saas-landing-starter?style=social)](https://github.com/aayushbharti/ai-saas-landing-starter/forks)
-[![GitHub commits](https://img.shields.io/github/commit-activity/t/aayushbharti/ai-saas-landing-starter?style=social&logo=github)](https://github.com/aayushbharti/ai-saas-landing-starter/commits)
-[![Pull requests](https://img.shields.io/github/issues-pr/aayushbharti/ai-saas-landing-starter?style=social&logo=github)](https://github.com/aayushbharti/ai-saas-landing-starter/pulls)
+[![Stars](https://img.shields.io/github/stars/rooqx/ai-saas-landing-starter?style=social)](https://github.com/rooqx/ai-saas-landing-starter/stargazers)
+[![Fork](https://img.shields.io/github/forks/rooqx/ai-saas-landing-starter?style=social)](https://github.com/rooqx/ai-saas-landing-starter/forks)
+[![GitHub commits](https://img.shields.io/github/commit-activity/t/rooqx/ai-saas-landing-starter?style=social&logo=github)](https://github.com/rooqx/ai-saas-landing-starter/commits)
+[![Pull requests](https://img.shields.io/github/issues-pr/rooqx/ai-saas-landing-starter?style=social&logo=github)](https://github.com/rooqx/ai-saas-landing-starter/pulls)
 
 ![demo](./public/thumbnail.png)
 
-[![aayushbharti](https://custom-icon-badges.demolab.com/badge/made%20by%20-aayushbharti-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/aayushbharti)
-[![License](https://img.shields.io/github/license/aayushbharti/ai-saas-landing-starter?color=dddddd&labelColor=000000)](https://github.com/aayushbharti/ai-saas-landing-starter/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/aayushbharti/ai-saas-landing-starter?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
-[![Contributors](https://img.shields.io/github/contributors/aayushbharti/ai-saas-landing-starter?style=flat&color=orange&label=Contributors)](https://github.com/aayushbharti/ai-saas-landing-starter/graphs/contributors)
+[![rooqx](https://custom-icon-badges.demolab.com/badge/made%20by%20-rooqx-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/rooqx)
+[![License](https://img.shields.io/github/license/rooqx/ai-saas-landing-starter?color=dddddd&labelColor=000000)](https://github.com/rooqx/ai-saas-landing-starter/blob/main/LICENSE)
+[![Top Language](https://img.shields.io/github/languages/top/rooqx/ai-saas-landing-starter?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
+[![Contributors](https://img.shields.io/github/contributors/rooqx/ai-saas-landing-starter?style=flat&color=orange&label=Contributors)](https://github.com/rooqx/ai-saas-landing-starter/graphs/contributors)
 
-<!-- ![Release](https://img.shields.io/github/release/aayushbharti/ai-saas-landing-starter.svg) -->
+<!-- ![Release](https://img.shields.io/github/release/rooqx/ai-saas-landing-starter.svg) -->
 
 ![PRs](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=shields)
-![deployment](https://img.shields.io/github/deployments/aayushbharti/ai-saas-landing-starter/Production?logo=vercel&label=Website)
-[![Known Vulnerabilities](https://snyk.io/test/github/aayushbharti/ai-saas-landing-starter/badge.svg)](https://snyk.io/test/github/aayushbharti/ai-saas-landing-starter)
+![deployment](https://img.shields.io/github/deployments/rooqx/ai-saas-landing-starter/Production?logo=vercel&label=Website)
+[![Known Vulnerabilities](https://snyk.io/test/github/rooqx/ai-saas-landing-starter/badge.svg)](https://snyk.io/test/github/rooqx/ai-saas-landing-starter)
 
 ## 🌐 Live Demo
 
@@ -179,7 +179,7 @@ following installed on your local machine.
 Download or clone this repo by using the link below:
 
 ```bash
-git clone https://github.com/aayushbharti/ai-saas-landing-starter.git
+git clone https://github.com/rooqx/ai-saas-landing-starter.git
 ```
 
 **Step 2:**
@@ -233,20 +233,20 @@ pnpm build
 The easiest way to deploy this Next.js app is to use the
 [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Faayushbharti%2Fai-saas-landing-starter)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frooqx%2Fai-saas-landing-starter)
 
 #### Deploy on Netlify
 
 You can also deploy this Next.js app with [Netlify](https://www.netlify.com/).
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/aayushbharti/ai-saas-landing-starter)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rooqx/ai-saas-landing-starter)
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment)
 for more details.
 
 ## 🔧 Contributing
 
-[![contributors](https://contrib.rocks/image?repo=aayushbharti/ai-saas-landing-starter)](https://github.com/aayushbharti/ai-saas-landing-starter/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=rooqx/ai-saas-landing-starter)](https://github.com/rooqx/ai-saas-landing-starter/graphs/contributors)
 
 Contributions are what make the open source community such an amazing place to
 learn, inspire, and create. Any contributions you make are **greatly
@@ -265,12 +265,12 @@ To fix a bug or enhance an existing module, follow these steps:
 
 If you find a bug (failure of a module to execute its intended function), kindly
 open an issue
-[here](https://github.com/aayushbharti/ai-saas-landing-starter/issues/new) by
-including the issue with a title and clear description.
+[here](https://github.com/rooqx/ai-saas-landing-starter/issues/new) by including
+the issue with a title and clear description.
 
 If you'd like to request a new function, feel free to do so by opening an issue
-[here](https://github.com/aayushbharti/ai-saas-landing-starter/issues/new).
-Please include sample queries and their corresponding results.
+[here](https://github.com/rooqx/ai-saas-landing-starter/issues/new). Please
+include sample queries and their corresponding results.
 
 ## 💎 Acknowledgements
 
@@ -286,17 +286,17 @@ project and made it possible:
 
 ## 📞 Contact Us
 
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-@aayushbharti-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/aayushbharti) -->
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-@rooqx-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/rooqx) -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayushbharti-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/iaayushbharti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rooqx-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/irooqx)
 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-aayushbharti-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/aayushbharti) -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-rooqx-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/rooqx) -->
 
-[![Twitter](https://img.shields.io/twitter/follow/iaayushbharti.svg?style=social)](https://twitter.com/intent/follow?screen_name=iaayushbharti)
+[![Twitter](https://img.shields.io/twitter/follow/irooqx.svg?style=social)](https://twitter.com/intent/follow?screen_name=irooqx)
 
 ## 📋 License
 
 **StarForge** is open source software
 [licensed as MIT](https://opensource.org/license/mit/) and is free to use — See
-[LICENSE](https://github.com/aayushbharti/ai-saas-landing-starter/blob/main/LICENSE)
+[LICENSE](https://github.com/rooqx/ai-saas-landing-starter/blob/main/LICENSE)
 for more details.
